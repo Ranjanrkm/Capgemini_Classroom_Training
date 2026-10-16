@@ -16,3 +16,7 @@ class lambda_8 {
         System.out.println("Result: " + res);
     }
 }
+
+/*
+
+*/
